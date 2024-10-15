@@ -11,6 +11,6 @@ if len(passwordHash) == 4 :
     #SHA-512
     if passwordHash[1] == "6":
         crackedPassword = ReturnPasswordFromSha512Hash(passwordHash)
-        print("SHA-512 Password Crack Resultt: " + crackedPassword)
+        print("SHA-512 Password Crack Result: " + crackedPassword)
 
 
