@@ -16,7 +16,7 @@ def ReadShadowFile(filePath):
         for line in lines[0:]:
             # Split the line into interface name and stats
             parts = line.split(':')
-            if len(parts) > 2:
+            if len(parts) >= 2:
                 userName = parts[0].strip()
                 passwordHash = parts[1].strip()
 

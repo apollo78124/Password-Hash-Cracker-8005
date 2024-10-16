@@ -3,8 +3,8 @@ import crypt
 import itertools
 
 
-# Solve SHA-512, SHA-256, MD5 Password
-def ReturnPasswordFromSha512Hash(passwordHash):
+# Solve Yescrypt Password
+def ReturnPasswordFromYesCryptHash(passwordHash):
     # Extract the salt and hashed password from the hash_line
     # Example hash_line format: '$6$salt$hashed_password'
     parts = passwordHash
@@ -12,7 +12,7 @@ def ReturnPasswordFromSha512Hash(passwordHash):
         print("Invalid hash format")
         return None
 
-    algorithm = parts[1]  # '6' indicates SHA-512
+    algorithm = parts[1]  # 'y' indicates Yescrypt
     salt = parts[2]  # Extract the salt
     true_hash = parts[3]  # Extract the actual hashed password
 

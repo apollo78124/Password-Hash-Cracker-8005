@@ -1,1 +1,5 @@
-paulanka:$6$mW85a3WMCjyYWpsq$CdWaW2KWF7IlH.FT3eM7YilMxLZyWh.OkGI.KNXHWxS.lXqT0IaApnfiXLjcYRwgkENrthecgtFpk8dKNIXD10:20011:0:99999:7:::
+md5user:$1$HkF/j77V$xfwiHP8M5p4u4RMm/A3C8.
+blowfishuser:$2b$05$M3/pKEgQsi3jeBrXKclvyu6wjuwMXpKPcOORcYugB/SLUuP2TJ49.
+yescryptuser:$y$j9T$3b4SYoEnLttp5LwhHC7rA0$SoavVDaGqaq5V3Bs1jqJv7LzGl9zmJEgM5t12cE1DyC
+sha256user:$5$vfWP41nWxMWD7zVQ$GNpGI7Y//NOXjxI3ppI9VOyRbCeZTcOMG5/cCfEqRL9
+sha512user:$6$mW85a3WMCjyYWpsq$CdWaW2KWF7IlH.FT3eM7YilMxLZyWh.OkGI.KNXHWxS.lXqT0IaApnfiXLjcYRwgkENrthecgtFpk8dKNIXD10:20011:0:99999:7:::
