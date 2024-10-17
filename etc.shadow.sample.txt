@@ -1,5 +1,12 @@
-md5user:$1$HkF/j77V$xfwiHP8M5p4u4RMm/A3C8.
-blowfishuser:$2b$05$M3/pKEgQsi3jeBrXKclvyu6wjuwMXpKPcOORcYugB/SLUuP2TJ49.
-yescryptuser:$y$j9T$3b4SYoEnLttp5LwhHC7rA0$SoavVDaGqaq5V3Bs1jqJv7LzGl9zmJEgM5t12cE1DyC
-sha256user:$5$vfWP41nWxMWD7zVQ$GNpGI7Y//NOXjxI3ppI9VOyRbCeZTcOMG5/cCfEqRL9
-sha512user:$6$mW85a3WMCjyYWpsq$CdWaW2KWF7IlH.FT3eM7YilMxLZyWh.OkGI.KNXHWxS.lXqT0IaApnfiXLjcYRwgkENrthecgtFpk8dKNIXD10:20011:0:99999:7:::
+md5length1user:$1$eU2IX.qV$NiPeUObqRSTd5GYAzCEPm/:
+md5length2user:$1$/HuXhaee$wiHY0oJsTaE7k4Y79IJfb.:
+md5length3user:$1$JWW8kvaW$brWu1pUEDu/0BSP4FjXNZ.:
+md5length4user:$1$q0rz5Jjy$Da0fHhzCOnilpXtGi3Hc..:
+sha256length1user:$5$O5cSFkeIRSGWF8UN$.NHANNM65qUyjwxyYEKYZFMegD.REh7poEkqqSojQ4A:
+sha256length2user:$5$4CVgm6E/ZZmovBuw$4pIz7Zg1xFh.B8wc4K..RuNQnJTw9LbJCcp5NsZvDn9:
+sha256length3user:$5$KyFOUUbWoSfDc0hs$t/2Ez3HuG3hwddLCxfS3OOJcyW9gj3IAJt5qGT5/Zh7:
+sha256length4user:$5$28tyvEjqPb.yQtYO$gl2T5DB1XhYvR7l.JMRhpkyOI37is//Pnwc4zsrRLC9:
+sha512length1user:$6$gOAXG55cRVmlpKpP$WT.CX1pw8SVWO7Qs.rLfseUSJSibV8gzje836N0D8CC8.MRHXocATB6CDkgP/jCV5ZrwsKRlqJj5K1wCDrA5C/:
+sha512length2user:$6$aKLhIsWLo/jvIvoo$x02pAJH9mzJ2jLxBkUMSpWTf1beB683gMpyZ2f0r7FgHqY3jO68XRovD5d/1oWHc8RyLTU1lhp80Nwtk.g/1B0:
+sha512length3user:$6$sQTG28aFWv9HmO28$4jx5UkUSGBofYPW7WPLDbhtCR11VNoXHayK8QrOx1oVh8bcQBgC1zrufZNI4W0OstpxJ1rSKRCWrsKljfbV9J0:
+sha512length4user:$6$WAwzXfflc027y0KW$J/l4jkmrt6m.KauIQwx6bQHE99FzWaJE7L7Ojc47f14QsAXUQz/XWv0RAHmrTGteBMoYDpvNnSQEJHSRn0eFz0:
