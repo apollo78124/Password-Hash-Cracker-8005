@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread/cmake-build-debug",
+	"dir-cur-src" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread",
+	"dir-top-bld" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread/cmake-build-debug",
+	"dir-top-src" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir"
+}
