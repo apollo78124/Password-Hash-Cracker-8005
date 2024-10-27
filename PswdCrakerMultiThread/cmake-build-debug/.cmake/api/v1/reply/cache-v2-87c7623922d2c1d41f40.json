@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread/cmake-build-debug"
+			"value" : "/home/davidlee/Repo/Password-Hash-Cracker-8005/PswdCrakerMultiThread/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/davidlee/Repo/Password-Hash-Cracker-8005/PswdCrakerMultiThread/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread"
+			"value" : "/home/davidlee/Repo/Password-Hash-Cracker-8005/PswdCrakerMultiThread"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread/cmake-build-debug"
+			"value" : "/home/davidlee/Repo/Password-Hash-Cracker-8005/PswdCrakerMultiThread/cmake-build-debug"
 		},
 		{
 			"name" : "PswdCrakerMultiThread_IS_TOP_LEVEL",
@@ -1175,7 +1175,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread"
+			"value" : "/home/davidlee/Repo/Password-Hash-Cracker-8005/PswdCrakerMultiThread"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread/cmake-build-debug",
-		"source" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread"
+		"build" : "/home/davidlee/Repo/Password-Hash-Cracker-8005/PswdCrakerMultiThread/cmake-build-debug",
+		"source" : "/home/davidlee/Repo/Password-Hash-Cracker-8005/PswdCrakerMultiThread"
 	},
 	"version" : 
 	{

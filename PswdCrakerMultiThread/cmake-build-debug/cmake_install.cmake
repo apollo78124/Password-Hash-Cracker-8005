@@ -1,4 +1,4 @@
-# Install script for directory: /home/davidlee/CLionProjects/PswdCrakerMultiThread
+# Install script for directory: /home/davidlee/Repo/Password-Hash-Cracker-8005/PswdCrakerMultiThread
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/davidlee/CLionProjects/PswdCrakerMultiThread/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/davidlee/Repo/Password-Hash-Cracker-8005/PswdCrakerMultiThread/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

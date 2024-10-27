@@ -5,14 +5,14 @@
 	"compiler-simulate-id" : "",
 	"config" : "Debug",
 	"cxx-modules" : {},
-	"dir-cur-bld" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread/cmake-build-debug",
-	"dir-cur-src" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread",
-	"dir-top-bld" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread/cmake-build-debug",
-	"dir-top-src" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread",
+	"dir-cur-bld" : "/home/davidlee/Repo/Password-Hash-Cracker-8005/PswdCrakerMultiThread/cmake-build-debug",
+	"dir-cur-src" : "/home/davidlee/Repo/Password-Hash-Cracker-8005/PswdCrakerMultiThread",
+	"dir-top-bld" : "/home/davidlee/Repo/Password-Hash-Cracker-8005/PswdCrakerMultiThread/cmake-build-debug",
+	"dir-top-src" : "/home/davidlee/Repo/Password-Hash-Cracker-8005/PswdCrakerMultiThread",
 	"exports" : [],
 	"forward-modules-from-target-dirs" : [],
 	"include-dirs" : [],
 	"language" : "CXX",
 	"linked-target-dirs" : [],
-	"module-dir" : "/home/davidlee/CLionProjects/PswdCrakerMultiThread/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir"
+	"module-dir" : "/home/davidlee/Repo/Password-Hash-Cracker-8005/PswdCrakerMultiThread/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir"
 }
