@@ -24,40 +24,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6acbd9f6-0f3c-4cad-a17e-68ca75e9a5b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SingleThread/.idea/Password-Hash-Cracker-8005.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Password-Hash-Cracker-8005.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HashFactory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/HashFactory.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HashFactory.h" beforeDir="false" afterPath="$PROJECT_DIR$/HashFactory.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f909432fdb4d62c006a7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-68926c6ad29c8f05be63.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-584a1e21392c39745a38.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-10-24T05-56-08-0224.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir/CXXDependInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir/CXXDependInfo.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir/HashFactory.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir/HashFactory.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir/HashFactory.cpp.o.ddi.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir/HashFactory.cpp.o.ddi.d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir/HashFactory.cpp.o.ddi.i" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir/HashFactory.cpp.o.ddi.i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir/main.cpp.o.ddi.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir/main.cpp.o.ddi.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir/main.cpp.o.ddi.i" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PswdCrakerMultiThread.dir/main.cpp.o.ddi.i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/PswdCrakerMultiThread" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PswdCrakerMultiThread" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etc.shadow.sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/etc.shadow.sample.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -222,11 +198,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="CMake Application.PswdCrakerMultiThread" />
       <item itemvalue="CMake Debug.Unnamed" />
@@ -243,7 +214,8 @@
       <workItem from="1729661691916" duration="1610000" />
       <workItem from="1729741995051" duration="2612000" />
       <workItem from="1729748289103" duration="2235000" />
-      <workItem from="1730001625301" duration="7181000" />
+      <workItem from="1730001625301" duration="9052000" />
+      <workItem from="1730093456177" duration="4431000" />
     </task>
     <servers />
   </component>
