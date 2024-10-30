@@ -45,7 +45,6 @@ int main() {
             hashingAlgorithm = "SHA-512";
         }
 
-
             // Start time
             auto start_time = std::chrono::high_resolution_clock::now();
             crackedPassword = hash_factory.PasswordCrack1Threaded(passwordHash);
